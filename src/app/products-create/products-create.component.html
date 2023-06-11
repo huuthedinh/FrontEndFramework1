@@ -1,0 +1,9 @@
+<div class="container">
+    <form [formGroup]="productForm" (ngSubmit)="OnSubmit()">
+        <input type="text" formControlName="name">
+        <input type="number" formControlName="price">
+        <input type="text" formControlName="desc">
+        <button type="submit" [disabled]="!productForm.valid" routerLink="/products/create">Create</button>
+    </form>
+
+</div>

@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "huuthedhinh",
+      "price": 123,
+      "desc": "asssssssssssssss"
+    },
+    {
+      "id": 2,
+      "name": "Product A",
+      "price": 123,
+      "desc": "sp bán chạy nhất"
+    },
+    {
+      "id": 3,
+      "name": "huuthedinh",
+      "price": 2746,
+      "desc": "jhadsada"
+    }
+  ]
+}
